@@ -1,6 +1,6 @@
 
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
-#include "../src/Source.cpp"
+#include "Source.cpp"
  auto TEST_CASE("cchecking check conflict with tail")
  {
 	  size_snake = 0;
